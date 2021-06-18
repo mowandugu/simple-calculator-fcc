@@ -2,7 +2,6 @@
 *{
   box-sizing: border-box;
 }
-
 body{
   font-family: 'Mukta', sans-serif;
   margin:0;
@@ -13,7 +12,6 @@ body{
   justify-content:center;
   
 }
-
 .calculator{
   background-color:#470FF4;
   box-shadow: 0 5px 0px 1px #f6f7f8;;
